@@ -1,4 +1,4 @@
-package com.codestates.praticegithubActiondeploy.HelloController;
+package com.codestates.praticegithubActiondeploy.controller;
 
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.RestController;
